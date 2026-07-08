@@ -19,7 +19,7 @@ A web-based utility to automatically generate FedEx booking request emails by pa
 ## 📸 Screenshots
 
 ### 1. Configurable Rules Panel
-![Rules Panel](https://raw.githubusercontent.com/PhoenixWeaver/BT_Order_Automation/main/public/images/bookings_rules.png)
+![Rules Panel](https://raw.githubusercontent.com/PhoenixWeaver/BT_Order_Automation/main/public/images/bookings_Rules.png)
 *The slide-out panel where users can adjust weight and dimension thresholds in real-time.*
 
 ### 2. Generated Booking Output

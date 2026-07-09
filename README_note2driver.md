@@ -28,11 +28,11 @@ A web-based utility that streamlines two logistics tasks in one click: generatin
 ## 📸 Screenshots
 
 ### Input Panel
-![Note to Driver Input](images/note2driver_input.png)
+![Note to Driver Input](public/note2driver_input.png)
 *CED and eOPS input panels with the Note to Driver info section below.*
 
 ### Output Panel
-![Note to Driver Output](images/note2driver_output.png)
+![Note to Driver Output](public/note2driver_output.png)
 *Generated booking table, validation badges, and the formatted Note to Driver output.*
 
 ---

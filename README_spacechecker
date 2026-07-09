@@ -8,7 +8,7 @@ This tool is built as a standalone HTML file with vanilla JavaScript, making it 
 
 ## 📸 Screenshot
 
-![Book Space Checker Output](public/bookspace_output.png)
+![Book Space Checker Output](images/bookspace_output.png)
 *Example of the tool's output, showing parsed shipment details and the final booking decision.*
 
 ## 2. How to Use
@@ -50,7 +50,7 @@ This is the primary result of the tool. It tells you whether you need to contact
 
 The tool's logic is based on a configurable set of rules that can be viewed and modified by clicking the **`⚙️ Rules`** button.
 
-![Rules Panel](public/bookspace_rules.png)
+![Rules Panel](images/bookspace_rules.png)
 Editable Rules Panel
 *The slide-out panel where users can adjust weight and dimension thresholds.*
 

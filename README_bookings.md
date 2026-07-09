@@ -1,6 +1,6 @@
-# ✈️ Demo Booking Generator
+# ✈️ Booking Generator Demo
 
-A web-based utility to automatically generate FedEx booking request emails by parsing shipment data from CED and eOPS, checking it against configurable rules, and creating a ready-to-send email body.
+A web-based tool that automatically generates FedEx booking request emails by parsing shipment data from CED and eOPS, validating it against configurable business rules, and producing a ready-to-send email.
 
 ## 🚀 Features
 

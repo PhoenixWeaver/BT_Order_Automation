@@ -83,3 +83,5 @@ The tool checks for two main conditions:
 
 ---
 *This tool is designed for internal use to streamline the booking process and ensure compliance with shipping regulations.*
+
+ ©2026 PhoenixFlix     |       Contact: ThePhoenixFlix@gmail.com      |      GitHub: github.com/PhoenixWeaver

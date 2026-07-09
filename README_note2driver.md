@@ -1,4 +1,4 @@
-# ✈️ Booking & Note to Driver Generator
+# ✈️ Demo Booking & Note to Driver Generator
 
 A web-based utility that streamlines two logistics tasks in one click: generating a formal **booking request email** for the Ramp team, and building a concise **Note to Driver** for pickup instructions. All processing is client-side — no server required.
 
@@ -116,4 +116,4 @@ A shipment is flagged `🚨 Book Space!` if it violates any rule in the `⚙️ 
 
 ---
 
-*Designed for internal logistics use to streamline booking requests and driver pickup communication.*
+ ~~ Demo Proposal – Designed for internal logistics operations to streamline booking requests and driver pickup communications. ~~

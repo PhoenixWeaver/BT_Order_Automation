@@ -87,8 +87,8 @@ The output panel has two sections:
 ```
 2AWB - 2536 KG - 12 PALLET - 123*103*117 - PRINTED CIRCUIT BOARD ASSEMBLY FOR POWER METER // NGUYEN XUAN SON - +84 911911911 //
 READY LÚC 16H //
-REF #19076506 - AWB #874094077800 //
-REF #19076524 - AWB #874094077801 //
+REF #911911 - AWB #874094077000 //
+REF #311311 - AWB #874094077001 //
 ```
 - Click **`📋 Copy Note`** to copy the plain-text note to clipboard.
 

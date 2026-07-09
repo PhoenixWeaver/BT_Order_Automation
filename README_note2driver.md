@@ -1,6 +1,6 @@
-# ✈️ Demo Booking & Note to Driver Generator
+# ✈️ Booking & Note to Driver Generator Demo
 
-A web-based utility that streamlines two logistics tasks in one click: generating a formal **booking request email** for the Ramp team, and building a concise **Note to Driver** for pickup instructions. All processing is client-side — no server required.
+An internal web-based tool that streamlines the booking process by generating a formal **booking request email** for the Ramp Team and a concise **Note to Driver** for pickup instructions. All processing is performed locally in the browser, ensuring that no server infrastructure is required.
 
 ---
 
@@ -117,3 +117,4 @@ A shipment is flagged `🚨 Book Space!` if it violates any rule in the `⚙️ 
 ---
 
  ~~ Demo Proposal – Designed for internal logistics operations to streamline booking requests and driver pickup communications. ~~
+    ©2026 PhoenixFlix | Contact: ThePhoenixFlix@gmail.com | GitHub: github.com/PhoenixWeaver

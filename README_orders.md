@@ -1,4 +1,4 @@
-# Order Automation System
+# 📚 Order Automation System
 
 A comprehensive web-based order automation system for FedEx supply management, designed to streamline customer supply order processing with intelligent allocation algorithms and duplicate prevention.
 
@@ -256,4 +256,3 @@ For questions or support, please contact the development team or create an issue
 ---
 
 *Built with Node.js, Express.js, and vanilla JavaScript for reliable supply chain automation.*
-

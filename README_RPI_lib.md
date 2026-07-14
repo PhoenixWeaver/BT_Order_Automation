@@ -50,7 +50,7 @@ The Case Library is built with several key features to maximize agent productivi
 *The main interface of the Copilot Case Library, showing the category sidebar, search bar, and template cards.*
 
 ### 2. Dual-Language Template
-![Dual-Language Template](images/RPI_DUAL.png)
+![Dual-Language Template](images/RPI_dual.png)
 *An example of a dual-language template, providing both Vietnamese and English content for efficient communication.*
 
 ---

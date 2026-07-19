@@ -50,7 +50,7 @@ One tool. Every template. Zero memory required.
 
 ## 🚀 Overview
 
-The **Copilot Case Library** is a self-contained web tool designed to streamline the handling of Remote Pickup (RPI) cases. It serves as a centralized, interactive repository of pre-written email templates and internal notes covering every common customer service scenario.
+The **DEMO blank templates Case Library** is a self-contained web tool designed to streamline the handling of Logistic PickUp cases. It serves as a centralized, interactive repository of pre-written email templates and internal notes covering every common customer service scenario.
 
 Core goals:
 - **Standardize Communication** — Every agent sends consistent, approved messaging.
@@ -63,9 +63,9 @@ Core goals:
 ## ✨ Key Features
 
 ### 1. Library Switching
-- **Dual VNEN** — Bilingual templates (Vietnamese + English) for cross-region cases.
-- **RPI Scenarios** — The complete collection of all RPI scenario templates.
-- **VN RPI** — Templates tailored specifically for the Vietnam region.
+- **Special Cases** — Bilingual templates (Vietnamese + English) for cross-region cases.
+- **The Scenarios** — The complete collection of all the scenario templates.
+- **Pop cases** — Templates tailored specifically for the Vietnam region.
 
 ### 2. Category Sidebar Navigation
 - Filter templates instantly by category: `UNREACHED`, `DOCS`, `CMOD`, `ESCALATED`, `PUP STATUS`, and more.
@@ -115,7 +115,7 @@ Click the **✏️ Edit Templates** button in the top-right toolbar to enter Edi
 Click **💾 Save Templates** to permanently save all your edits for the current library.
 
 - Edits are saved to your browser's **`localStorage`** — they survive page refreshes, browser restarts, and computer reboots.
-- Saves are **per library** — edits to `RPI Scenarios` do not affect `VN RPI` or `Dual VNEN`.
+- Saves are **per library** — edits to `The Scenarios` do not affect `Pop cases` or `Special Cases`.
 - A **✅ Saved!** confirmation flashes on the button so you know it worked.
 - The next time you open the page, your saved versions load automatically — the defaults are replaced with your customized text.
 
@@ -148,7 +148,7 @@ Click **↩ Reset** to discard all saved edits for the current library and resto
 
 ```
 1. Open the Case Library
-2. Switch to the library you want to customize (e.g. RPI Scenarios)
+2. Switch to the library you want to customize (e.g. The Scenarios)
 3. Click ✏️ Edit Templates
 4. Find the template you want to change (use search or sidebar)
 5. Click inside the email body or note and make your edits
@@ -178,7 +178,7 @@ Click **↩ Reset** to discard all saved edits for the current library and resto
 
 ## 📖 How to Use — Step by Step
 
-1. **Select a Library** — Choose `Dual VNEN`, `RPI Scenarios`, or `VN RPI` from the top switcher.
+1. **Select a Library** — Choose `Special Cases`, `The Scenarios`, or `Pop Cases` from the top switcher.
 2. **Find the Template** — Use the sidebar to filter by category, or type a keyword in the search bar.
 3. **Quick Edit (one-off)** — Click directly inside any field and type your changes before copying. These edits are temporary and not saved.
 4. **Permanent Edit** — Click **✏️ Edit Templates**, make your changes across any cards, then click **💾 Save Templates**.

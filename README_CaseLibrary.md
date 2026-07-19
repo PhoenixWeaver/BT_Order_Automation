@@ -12,7 +12,7 @@
 
 You shouldn't have to.
 
-The **Copilot Case Library** was built for exactly this problem. Instead of digging through folders, scrolling through shared docs, or memorizing which template fits which scenario — everything lives in one place, instantly searchable, always ready to copy.
+The **Quantum Processor Case Library** was built for exactly this problem. Instead of digging through folders, scrolling through shared docs, or memorizing which template fits which scenario — everything lives in one place, instantly searchable, always ready to copy.
 
 One tool. Every template. Zero memory required.
 
@@ -198,4 +198,4 @@ Click **↩ Reset** to discard all saved edits for the current library and resto
 
 ---
 
-*Copilot Case Library — Built for speed, built for scale. © 2026 PhoenixFlix.*
+*Quantum Processor Case Library — Built for speed, built for scale. © 2026 PhoenixFlix.*
